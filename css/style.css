@@ -1,7 +1,8 @@
 .flex-container {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     height: 600px;
-    align-items: center;
+    align-items: center;}
     
-  }
+  
